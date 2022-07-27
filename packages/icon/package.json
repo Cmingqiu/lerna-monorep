@@ -1,0 +1,23 @@
+{
+  "name": "@c-ui/icon",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chenmq <1075124372@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/icon.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "scripts": {
+    "dev": "node ./src/index.js",
+    "build": "node ./src/index.js"
+  }
+}
